@@ -1,3 +1,3 @@
 # week3
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1e37a1a45fd828a9cb10)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/c6179e8d2afe6302e3cd)
